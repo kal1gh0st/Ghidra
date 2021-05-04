@@ -1,4 +1,6 @@
 # Ghidra
+![immagine](https://user-images.githubusercontent.com/56889513/117017483-ea211880-acf3-11eb-96c7-a573d0985302.png)
+
 Ghidra Script Development.
 In order to write a script:
 Ghidra script must be written in Java.
