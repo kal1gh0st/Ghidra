@@ -36,3 +36,4 @@ This example, when run, will simply print "Hello World" into the Ghidra console.
         }
  
 All scripts, when run, will be handed the current state and are automatically run in a separate thread.
+#This scipt i will not write me!
